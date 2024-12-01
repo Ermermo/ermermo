@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**Ermermo/ermermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+## Olá! Me chamo o Emanuel Roberto 🦉
+
+</div>
+
+<img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=ermermo&label=Profile%20views&color=green&style=flat">
+<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/ermermo?style=flat&color=green&logo=github" />
+<img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/ermermo?style=flat&color=green" />
+<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/ermermo?color=green" />
+<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/ermermo?style=flat&color=green" />
+<br />
+<br />
+<br />
+
+- 🖥️ Cursando Ciência da Computação.
+- ⌨️ Desenvolvedor Front-End
+- 🏖️ Recife-PE, Brasil
+
+<br />
+
+***
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermermo&theme=dark" alt="Top Languages" height="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=ermermo&show_icons=true&theme=dark" height="200px">
+
+***
+
+### Tecnologias que utilizo no meu dia a dia
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" height="50px" width="50px">
+<img src="https://www.svgrepo.com/show/452185/css-3.svg" height="50px" >
+<img src="https://www.svgrepo.com/show/452045/js.svg" height="50px" >
+<img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" height="50px" >
+<img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" height="50px" >
+
+### Skills em desenvolvimento
+
+<img src="https://www.svgrepo.com/show/452092/react.svg" height="50px" >
+<img src="https://www.svgrepo.com/show/354310/sass.svg" height="50px" >
+<img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" height="50px" >
+
+##
+
+<a href="mailto:emanuelrobertocontato@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.instagram.com/corujadesign87" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/robertoemanuel/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br />
+<br />
+
+<h1 align="center">⚡️<i>Obrigado 🤝!</i>⚡️</h1>
+
+
