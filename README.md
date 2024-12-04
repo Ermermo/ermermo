@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## Olá! Me chamo o Emanuel Roberto 🦉
+## Hello! My name is Emanuel Roberto 🦉
 
 </div>
 
@@ -16,9 +16,9 @@
 <br />
 <br />
 
-- 🖥️ Cursando Ciência da Computação.
+- 🖥️ Studying Computer Science
 - ⌨️ Desenvolvedor Front-End
-- 🏖️ Recife-PE, Brasil
+- 🏖️ Front-End Developer
 
 <br />
 
@@ -30,14 +30,14 @@
 
 ***
 
-### Tecnologias que utilizo no meu dia a dia
+### Technologies that I use in my daily life
 <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="50px" width="50px">
 <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/452045/js.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" height="50px" >
 
-### Skills em desenvolvimento
+### Skills in development
 
 <img src="https://www.svgrepo.com/show/452092/react.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/354310/sass.svg" height="50px" >
@@ -58,6 +58,6 @@
 <br />
 <br />
 
-<h1 align="center">⚡️<i>Obrigado 🤝!</i>⚡️</h1>
+<h1 align="center">⚡️<i>Thanks 🤝!</i>⚡️</h1>
 
 
