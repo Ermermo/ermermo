@@ -36,7 +36,7 @@
 <img src="https://www.svgrepo.com/show/452045/js.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" height="50px" >
-<img scr="https://www.svgrepo.com/show/354987/figma.svg" height="50px">
+<img src="https://www.svgrepo.com/show/354987/figma.svg" height="50px">
 
 ### Skills in development
 
