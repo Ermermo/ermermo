@@ -42,6 +42,7 @@
 <img src="https://www.svgrepo.com/show/452092/react.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/354310/sass.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" height="50px" >
+<img src="https://www.svgrepo.com/show/452091/python.svg" height="50px" >
 
 ##
 
