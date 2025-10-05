@@ -35,18 +35,18 @@
 <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/452045/js.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" height="50px" >
-<img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" height="50px" >
+<!-- <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" height="50px" > -->
 <img src="https://www.svgrepo.com/show/354987/figma.svg" height="50px">
 
 ### Skills in development
 
-<img src="https://www.svgrepo.com/show/452092/react.svg" height="50px" >
-<img src="https://www.svgrepo.com/show/354310/sass.svg" height="50px" >
-<img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" height="50px" >
+<!-- <img src="https://www.svgrepo.com/show/452092/react.svg" height="50px" >
+<img src="https://www.svgrepo.com/show/354310/sass.svg" height="50px" > -->
+<!-- <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" height="50px" > -->
 <img src="https://www.svgrepo.com/show/452091/python.svg" height="50px" >
 <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" height="50px">
 <img src="https://www.svgrepo.com/show/373554/django.svg" height="50px">
-<img src="https://www.svgrepo.com/show/452156/angular.svg" height="50px">
+<!-- <img src="https://www.svgrepo.com/show/452156/angular.svg" height="50px"> -->
 
 ##
 
