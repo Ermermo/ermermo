@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="cmd.svg" alt="Animated Windows 11 dark mode CMD terminal" width="860"/>
+<img src="cmd-win11.svg" alt="Animated Windows 11 dark mode CMD terminal" width="860"/>
 
 <br><br>
 
